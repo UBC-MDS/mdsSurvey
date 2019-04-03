@@ -76,8 +76,8 @@ Here is the cover letter:
 > Thank you for taking the time to assist me in our educational endeavors. Completion and submission of the questionnaire will indicate your willingness to participate in this study. If you have any concerns or complaints about your rights as a research participant and/or your experiences while participating in this study, contact the Research Participant Complaint Line in the UBC Office of Research Ethics at 604-822-8598 or if long distance email RSIL@ors.ubc.caor call toll free 1-877-822-8598.
 If you require additional information or have questions, or you would like a summary copy of this study, please contact any of the following: 
 > 
-> 1.Jingyun Chen: jchen9314
-2.Anthony Chiodo: apchiodo
-3.Sarah Watts: smwatts
+> 1.Jingyun Chen: jchen9314 <br/>
+2.Anthony Chiodo: apchiodo <br/>
+3.Sarah Watts: smwatts <br/>
 4.Yuwei Liu: liuyuwei169
 	
