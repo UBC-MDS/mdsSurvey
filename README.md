@@ -65,3 +65,19 @@ We plan to perform a test for independence between the self-rated enjoyment of t
 ## UBC Office of Research Ethics Implications
 
 Our survey will not violate the BC Freedom of Information and Protection of Privacy Act (FIPPA) because we are not asking any personally identifiable information. As a result, we will be using Google Forms as our survey platform because the survey will be completed anonymously. A cover letter will be used instead of a full signed consent form because this is study will be limited to the online survey. The information needed by the participant to make an informed decision about participating in the survey study will be included in the survey. This includes: the study title, contact information of the PI, a short description of the study, risks and benefits, limits to confidentiality, a statement that participation is optional, and the UBC Research Participant Complaint Line text. See [UBC Office of Research Ethics document](https://ethics.research.ubc.ca/sites/ore.ubc.ca/files/documents/Online_Survey-GN.pdf) for full details.
+
+Here is the cover letter:
+> Dear MDS students: 
+>
+> We are graduate students of Data Science at University of British Columbia. For our project, we are examining how the number of years of full-time work experience a person has influence their self-rated enjoyment of the MDS program. Because you are a graduate student of Data Science, we are inviting you to participate in this research study by completing this survey. 
+>
+> The following questionnaire will require approximately 5 mins to complete. There is no compensation for responding nor is there any known risk. In order to ensure that all information will remain confidential, please do not include your name. Copies of our project will be public to MDS instructors and other MDS students. If you choose to participate in this project, please answer all questions as honestly as possible. This survey will not violate the BC Freedom of Information and Protection of Privacy Act (FIPPA), and participation is strictly voluntary and you may refuse to participate at any time. 
+>
+> Thank you for taking the time to assist me in our educational endeavors. Completion and submission of the questionnaire will indicate your willingness to participate in this study. If you have any concerns or complaints about your rights as a research participant and/or your experiences while participating in this study, contact the Research Participant Complaint Line in the UBC Office of Research Ethics at 604-822-8598 or if long distance email RSIL@ors.ubc.caor call toll free 1-877-822-8598.
+If you require additional information or have questions, or you would like a summary copy of this study, please contact any of the following: 
+> 
+> 1.Jingyun Chen: jchen9314 <br/>
+2.Anthony Chiodo: apchiodo <br/>
+3.Sarah Watts: smwatts <br/>
+4.Yuwei Liu: liuyuwei169
+	
