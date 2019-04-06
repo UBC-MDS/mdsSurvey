@@ -81,3 +81,12 @@ If you require additional information or have questions, or you would like a sum
 3.Sarah Watts: smwatts <br/>
 4.Yuwei Liu: liuyuwei169
 	
+## The repository of the survey
+
+Our survey has been done and the data has been stored in the following repository:
+
+https://github.ubc.ca/MDS-2018-19/mdsSurvey
+
+The result has been collected and stored in a csv file at the following place:
+
+https://github.ubc.ca/MDS-2018-19/mdsSurvey/blob/master/data/survey_results.csv
