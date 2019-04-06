@@ -81,12 +81,17 @@ If you require additional information or have questions, or you would like a sum
 3.Sarah Watts: smwatts <br/>
 4.Yuwei Liu: liuyuwei169
 	
-## The repository of the survey
+## Survey Link
 
-Our survey has been done and the data has been stored in the following repository:
+Does the number of years of full-time work experience a person have influence their self-rated enjoyment of the MDS program? 
 
-https://github.ubc.ca/MDS-2018-19/mdsSurvey
+Available [here](https://docs.google.com/forms/d/1QrNYvn0P4onULul_vpk-O2qhC2TPzsVab191ENNjKQs/viewform?edit_requested=true).
 
-The result has been collected and stored in a csv file at the following place:
+## Analysis
 
-https://github.ubc.ca/MDS-2018-19/mdsSurvey/blob/master/data/survey_results.csv
+All future analysis will be conducted in a private repo on github.ubc.ca, [mdsSurvey](https://github.ubc.ca/MDS-2018-19/mdsSurvey/) to ensure privacy of survey results.
+
+This repo includes:
+
+1. [Collected data](https://github.ubc.ca/MDS-2018-19/mdsSurvey/blob/master/data/survey_results.csv)
+2. [Exploratory data analysis](https://github.ubc.ca/MDS-2018-19/mdsSurvey/blob/master/survey_eda.ipynb) 
